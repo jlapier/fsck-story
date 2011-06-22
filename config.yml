@@ -1,0 +1,8 @@
+--- 
+:book_title: "The Forlorn Steampunk Catapult-Knight (fsck)"
+:author: Jason LaPier
+:epubcheck: /opt/epubcheck/epubcheck-1.2.jar
+:file_name: fsck_story.epub
+:chapter_glob: story/*
+:temp_epub_folder: epub
+:default_template: chapter

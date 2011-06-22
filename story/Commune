@@ -1,0 +1,50 @@
+Name: The Commune
+Chapter: 99
+
+You head to the edge of town and the commune comes into sight. It really is a lovely little place, the open gates flushed green with flowering vines. You walk into the little square and find a bunch of folk gathered at a large, round table.
+
+As you approach, a fair but plainly clothed woman stands and greets you. "Welcome, Brother!" She takes your hand in both of her hands and you are surprised to feel them rough, as though she spent the day working in a smithy. "I am Sister Ad'mynn. What brings you to our lovely little commune?"
+
+"Hi," you say awkwardly. "I'm um - I'm a cata-knight." You steel yourself - this place may be your only hope. "I'll cut to the chase. I'm in a bit of a pickle. I'm competing in the tournament and my cata-horse was destroyed. I need a good cata-horse - one that won't break down. And I have no money!"
+
+Sister Ad'mynn smile broadly. "Perhaps you should build one yourself. Then you will know it won't break down, and if it does, you'll know how to fix it."
+
+The sly goading of her reply is beyond your grasp. "Wait, is that what you do? Do you build stuff yourself?"
+
+"We are all empowered to build things here," she says proudly. "But we never have a need to do it alone."
+
+Again you are lost. What the fsck is this woman talking about? "I can't build anything, empowered or not. I'm no engineer! I'm no designer! I'm no QA tester!"
+
+Her smile shrinks only slightly and she blinks slowly. "Good knight. We are not all engineers and designers and QA testers. We all chip in and do what we can, and collectively we can do much more than we could alone."
+
+"Hmm," you ponder. "That kind of sounds communist to me."
+
+"That's right. It is a commune." Her eyes wander to the table as a burst of laughter eminates from a distant conversation. "Didn't you say you needed a horse?" she asks without turning back to face you.
+
+"What the fsck," you sign. "I'll give it a try. What do I do?"
+
+Sister Ad'mynn turns back around and her smile is broader than ever. "Excellent! We have some specs here for a cata-horse. Check the files in the library over yonder. You'll want to look them over and decide what options you want."
+
+"Options?"
+
+"Oh, it's all about choice, my Brother," she says, gripping your arm to make sure your flimsy attention is in tact. "You need to get used to the idea that everything is your choice and it's not for some manufacturer to tell you what you need."
+
+"I see."
+
+!>images/machineshop.jpg!
+
+"Anyway, once you have a set of specs, then head on over to that pile of components over there. I'm sorry - that's just an expression - it's not really a _pile_; it's a quite well-organized component pile. Just take what you need and put them together. Once you've comp-piled what you need, take it for a test ride over there in the Test Suite."
+
+"Wow," you say in amazement. "This is amazing! But what is this going to cost me?"
+
+She laughs as she replies, "Everything here is free, my friend; but we encourage you to contribute. Perhaps you'd like to brush up on your development skills and knock some bugs out of a prototype of one of our bug harvesting machines? Or if you're feeling social, we could always use more advocates."
+
+"Okay, let me think about that a moment."
+
+"And one last thing," she says. "I think you'll find there is more pleasure in working together than winning tournaments. However, should you be successful, we'd love for you to tell others about our little community called O'pinn." 
+
+"I suppose they'd ask me, _Who are you riding?_" you ponder aloud. "I could tell them we all own it, all of us in O'pinn. I could say it's O'pinn's horse."
+
+Choose:
+TODO: Will you be a developer? -> (make a patch)
+TODO: Will you become an advocate -> (talk up the commune in the local pub)
